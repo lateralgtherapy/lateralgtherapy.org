@@ -176,3 +176,7 @@ h3{font-size:22px;line-height:1.25;margin:0 0 8px}
 .footer-brand strong{font-family:var(--display);text-transform:uppercase;font-size:20px;line-height:1}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 .site-footer ul.social{display:flex}
+
+/* newsletter signup */
+.section-cream .fine{color:var(--muted-dark)}
+.signup-embed{max-width:560px}
